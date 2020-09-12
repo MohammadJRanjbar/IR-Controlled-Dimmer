@@ -116,7 +116,7 @@ void loop()
         stat = 10;
 
     }
-    else if(PulseLength > 10000 && PulseLength < 20000)
+    else if(PulseLength > 6000 && PulseLength < 20000)
     { 
       Serial.println("Substract");
       if (stat > 0)

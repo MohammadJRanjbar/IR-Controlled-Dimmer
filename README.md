@@ -66,4 +66,4 @@ There are several circuits that can do this. The circuit used in this project is
 <img src="Pics/Dimmer2.jpg" width="400" class="center" />
 
 
-  
+P.S: there is a video of this project in Video Folder

@@ -1,4 +1,4 @@
-# IR-Controlled-Light-Dimmer
+# IR-Controlled-Dimmer
 # Introduction
 Dimmer in English: Dimmer is used to adjust the amount of voltage or brightness and in the automotive industry is called the switch to change the strong light (high light) and low light (low light).
 Upon receiving the voltage, this device provides voltage from near zero to near the source voltage as output. Dimmers have different types and designs depending on the type of application.
